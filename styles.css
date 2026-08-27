@@ -62,7 +62,9 @@ body, html {
   z-index: 2;
   overflow: hidden;
   transition: transform 1s ease, opacity 1s ease;
-  background: #000;
+  background-image: url(img/FADILA.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 .video-background {
@@ -176,7 +178,7 @@ background-color: rgb(26, 26, 26); /* Warna latar belakang saat hover */
 }
 
 .frame-1 {
-  background-image: url(img/quote.jpg);
+  background-image: url(img/BGFADILA.jpg);
   background-size: cover;
   background-position: center;
   display: flex;
@@ -196,7 +198,7 @@ background-color: rgb(26, 26, 26); /* Warna latar belakang saat hover */
 
 .frame-2 {
   display: flex;
-  background-image: url(img/bg2.jpg);
+  background-image: url(img/BGFADILA.jpg);
   background-size: cover;
   display: flex;
   color: #1f1f1f;
@@ -212,7 +214,7 @@ background-color: rgb(26, 26, 26); /* Warna latar belakang saat hover */
 
 .frame-2a {
   display: flex;
-  background-image: url(img/bg2.jpg);
+  background-image: url(img/BGFADILA.jpg);
   background-size: cover;
   background-position: center;
   color: #0f0f0f;
@@ -247,7 +249,7 @@ background-color: rgb(26, 26, 26); /* Warna latar belakang saat hover */
 }
 
 .frame-3 {
-  background-image: url(img/bg2.jpg);
+  background-image: url(img/BGFADILA.jpg);
   background-size: cover;
   background-position: center;
   display: flex;
@@ -268,7 +270,7 @@ background-color: rgb(26, 26, 26); /* Warna latar belakang saat hover */
 
 .frame-4 {
   display: flex;
-  background-image: url(img/bg2.jpg);
+  background-image: url(img/BGFADILA.jpg);
   background-size: cover;
   background-position: center;
   display: flex;
@@ -307,7 +309,7 @@ background-color: rgb(26, 26, 26); /* Warna latar belakang saat hover */
 
 .frame-5 {
   display: flex;
-  background-image: url(img/bg2.jpg);
+  background-image: url(img/BGFADILA.jpg);
   background-size: cover;
   background-position: center;
   display: flex;
@@ -431,7 +433,7 @@ transform: scale(1.05); /* Animasi zoom saat hover */
 
 .frame-6 {
   display: flex;
-  background-image: url(img/bg2.jpg);
+  background-image: url(img/BGFADILA.jpg);
   background-size: cover;
   display: flex;
   color: #0f0f0f;
@@ -447,7 +449,7 @@ transform: scale(1.05); /* Animasi zoom saat hover */
 
 .frame-7 {
   display: flex;
-  background-image: url(img/bg2.jpg);
+  background-image: url(img/BGFADILA.jpg);
   background-size: cover;
   color: #1f1f1f;
   flex-direction: column;
